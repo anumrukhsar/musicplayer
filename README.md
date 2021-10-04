@@ -1,4 +1,4 @@
-# musicplayer
+# Musicplayer
 A music player app that uses itunes music api to fetch songs on the basis of artist name.
 
 Supported OS: Min 21 and Max 30
